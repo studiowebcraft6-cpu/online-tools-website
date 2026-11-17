@@ -1,0 +1,6 @@
+{
+  "name": "CastleTools - All-in-One Online Utilities & Converter Suite",
+  "description": "Free, fast, and secure online tools: PDF merger and editor, image converter and compressor, audio/video utilities, document transformers, and developer tools.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
